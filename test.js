@@ -1,4 +1,3 @@
-var i = "Hello"
+alert("Hello");
 
-console.log(i)
 
